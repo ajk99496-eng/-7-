@@ -1,4 +1,4 @@
-import {useEffect,useMemo,useState} from 'react';
+import {useEffect,useState} from 'react';
 import {ArrowRight,BookOpen,Check,ChevronRight,Clock,Download,FileSearch,FileText,Home,Lock,MessageCircle,RotateCcw,Search,Shield,Users,Volume2,VolumeX,X,Lightbulb,Menu,Clapperboard,ScanSearch,FolderOpen,Send,ClipboardList} from 'lucide-react';
 import {cast,chapter,docs,prerequisites,fresh,norm,csv,type MissionKey,type Section,type State,type Artifact,type Who} from './data/story';
 import {prologue,discoveries,lessons,ending,type Shot} from './data/cutscenes';
